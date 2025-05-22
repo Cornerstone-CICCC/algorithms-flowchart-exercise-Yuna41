@@ -51,6 +51,7 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
+![Exercise 3](/flowcharts/img04.png)
 
 ## Exercise 5
 
